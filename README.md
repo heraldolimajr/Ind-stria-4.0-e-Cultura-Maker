@@ -20,12 +20,12 @@
   <li>Tecnologias Autônomas em Armazenagem e Logística: AGVs e Drones</li>
   <li>Personalização em Massa: Como a Indústria 4.0 Transforma a Produção</li>
   <li>Análise Preditiva e Manutenção Inteligente na Indústria 4.0</li>
-  <li>Desenvolvimento de Fábricas Inteligentes: Desafios e Oportunidades</li>
+  <li>Ciência de Dados na Indústria 4.0: Transformando Dados em Vantagem Competitiva</li>
   <li>Impacto da Indústria 4.0 no Mercado de Trabalho: Novas Habilidades e Profissões</li>
-  <li>Integração de Inteligência Artificial com IoT (AIoT) na Indústria</li>
-  <li>Tecnologias de Sensoriamento e Monitoramento de Qualidade na Indústria 4.0</li>
+  <li>Edge Computing e Processamento de Dados em Tempo Real para a Indústria 4.0</li>
+  <li>Sistemas Autônomos e Veículos Inteligentes na Automação Industrial</li>
   <li>Cidades Inteligentes e a Indústria 4.0: Convergência de Tecnologias</li>
-  <lo>Ética e Responsabilidade Social na Indústria 4.0: Implicações das Tecnologias Avançadas</li>
+  <lo>Privacidade de Dados na Indústria 4.0: Desafios com a Lei Geral de Proteção de Dados (LGPD)</li>
 </ol>
 
 
