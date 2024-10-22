@@ -33,4 +33,17 @@
   <lo>Privacidade de Dados na Indústria 4.0: Desafios com a Lei Geral de Proteção de Dados (LGPD)</li>
 </ol>
 
+<H3>Orientações para as apresentações:</H3>
+<ol>
+  <li>Apresentação individual</li>
+  <li>Mínimo de 30min</li>
+  <li>Aprofundamento técnico e domínio do conteúdo</li>
+  <li>Utilização e demonstração de exemplos práticos, se possível (pode ser simulação)</li>
+</ol>
+
+
+<H3>Materiais de apoio:</H3>
+<ol>
+  <li><a href="https://mittechreview.com.br/">https://mittechreview.com.br/</a></li>
+</ol>
 
