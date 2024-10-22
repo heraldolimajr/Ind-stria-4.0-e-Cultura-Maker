@@ -30,7 +30,7 @@
   <li>Edge Computing e Processamento de Dados em Tempo Real para a Indústria 4.0</li>
   <li>Sistemas Autônomos e Veículos Inteligentes na Automação Industrial</li>
   <li>Cidades Inteligentes e a Indústria 4.0: Convergência de Tecnologias</li>
-  <lo>Privacidade de Dados na Indústria 4.0: Desafios com a Lei Geral de Proteção de Dados (LGPD)</li>
+  <li>Privacidade de Dados na Indústria 4.0: Desafios com a Lei Geral de Proteção de Dados (LGPD)</li>
 </ol>
 
 <H3>Orientações para as apresentações:</H3>
