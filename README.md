@@ -1,5 +1,5 @@
 <h1>Indústria 4.0 e Cultura Maker - Sistemas para Internet</h1>
-
+<img src="https://logap.com.br/wp-content/uploads/2023/05/principais-tecnologias-industria-4-0.png"/>
 <h3>Aulas </h3>
 <ol>
   <li><a href="https://www.canva.com/design/DAGUTSW0S0U/qF4WF4dtUvdI2d4F1Ci5fg/edit?utm_content=DAGUTSW0S0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Aula 00 - Introdução</a></li>
